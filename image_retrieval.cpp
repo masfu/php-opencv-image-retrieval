@@ -25,7 +25,7 @@ static zend_function_entry image_retrieval_functions[] = {
 };
 /* }}} */
 
-/* {{{ facedetect_module_entry
+/* {{{ image_retrieval_module_entry
  */
 zend_module_entry image_retrieval_module_entry = {
 #if ZEND_MODULE_API_NO >= 20010901
